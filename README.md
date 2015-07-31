@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 哲曦懂得的博客
+title: 哲曦的博客
 description: 只要功夫深，铁杵磨成针
 ---
 
