@@ -27,7 +27,7 @@ description: 只要功夫深，铁杵磨成针
 
 - - -
 说明：
-本博客的访问地址为[wenin819][]，源码地址为[Github][myGithub]。
+本博客的访问地址为[shenglongcsl][]，源码地址为[Github][wenin819],感谢wenin819。
 
- [wenin819]:   http://wenin819.com "wenin819"
- [myGithub]:   https://github.com/wenin819/wenin819.github.io
+ [shenglongcsl]:   http://http://shenglongcsl.github.io/ "shenglongcsl"
+ [wenin819]:   https://github.com/wenin819/wenin819.github.io
