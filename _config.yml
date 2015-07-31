@@ -1,0 +1,15 @@
+encoding: UTF-8
+
+highlighter: pygments
+# paginate: 8
+permalink: /:title
+
+markdown: rdiscount
+
+title: wenin819
+nickname: 知道2懂得
+url: http://wenin819.com
+img_url: http://wenin819.com
+
+author: wenin819
+email: wenin819@gmail.com
