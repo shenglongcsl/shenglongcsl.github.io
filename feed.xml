@@ -19,7 +19,7 @@ permalink: /feed.xml
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <language>zh_CN</language>
-    <description>知道2懂得的博客，记录成长的点点滴滴</description>
+    <description>哲曦的博客，记录成长的点点滴滴</description>
     {% for post in site.posts %}
     <item>
         <title>{{ post.title | xml_escape }}</title>
